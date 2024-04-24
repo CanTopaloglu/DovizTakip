@@ -1,0 +1,15 @@
+C:\Users\TRON PCH\source\repos\YMYP2\14.Projeler\DovizTakip\DovizTakipServer\DovizTakipServer.Application\bin\Debug\net8.0\DovizTakipServer.Application.deps.json
+C:\Users\TRON PCH\source\repos\YMYP2\14.Projeler\DovizTakip\DovizTakipServer\DovizTakipServer.Application\bin\Debug\net8.0\DovizTakipServer.Application.dll
+C:\Users\TRON PCH\source\repos\YMYP2\14.Projeler\DovizTakip\DovizTakipServer\DovizTakipServer.Application\bin\Debug\net8.0\DovizTakipServer.Application.pdb
+C:\Users\TRON PCH\source\repos\YMYP2\14.Projeler\DovizTakip\DovizTakipServer\DovizTakipServer.Application\bin\Debug\net8.0\DovizTakipServer.Domain.dll
+C:\Users\TRON PCH\source\repos\YMYP2\14.Projeler\DovizTakip\DovizTakipServer\DovizTakipServer.Application\bin\Debug\net8.0\DovizTakipServer.Domain.pdb
+C:\Users\TRON PCH\source\repos\YMYP2\14.Projeler\DovizTakip\DovizTakipServer\DovizTakipServer.Application\obj\Debug\net8.0\DovizTakipServer.Application.csproj.AssemblyReference.cache
+C:\Users\TRON PCH\source\repos\YMYP2\14.Projeler\DovizTakip\DovizTakipServer\DovizTakipServer.Application\obj\Debug\net8.0\DovizTakipServer.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TRON PCH\source\repos\YMYP2\14.Projeler\DovizTakip\DovizTakipServer\DovizTakipServer.Application\obj\Debug\net8.0\DovizTakipServer.Application.AssemblyInfoInputs.cache
+C:\Users\TRON PCH\source\repos\YMYP2\14.Projeler\DovizTakip\DovizTakipServer\DovizTakipServer.Application\obj\Debug\net8.0\DovizTakipServer.Application.AssemblyInfo.cs
+C:\Users\TRON PCH\source\repos\YMYP2\14.Projeler\DovizTakip\DovizTakipServer\DovizTakipServer.Application\obj\Debug\net8.0\DovizTakipServer.Application.csproj.CoreCompileInputs.cache
+C:\Users\TRON PCH\source\repos\YMYP2\14.Projeler\DovizTakip\DovizTakipServer\DovizTakipServer.Application\obj\Debug\net8.0\DovizTak.A25FCB07.Up2Date
+C:\Users\TRON PCH\source\repos\YMYP2\14.Projeler\DovizTakip\DovizTakipServer\DovizTakipServer.Application\obj\Debug\net8.0\DovizTakipServer.Application.dll
+C:\Users\TRON PCH\source\repos\YMYP2\14.Projeler\DovizTakip\DovizTakipServer\DovizTakipServer.Application\obj\Debug\net8.0\refint\DovizTakipServer.Application.dll
+C:\Users\TRON PCH\source\repos\YMYP2\14.Projeler\DovizTakip\DovizTakipServer\DovizTakipServer.Application\obj\Debug\net8.0\DovizTakipServer.Application.pdb
+C:\Users\TRON PCH\source\repos\YMYP2\14.Projeler\DovizTakip\DovizTakipServer\DovizTakipServer.Application\obj\Debug\net8.0\ref\DovizTakipServer.Application.dll
